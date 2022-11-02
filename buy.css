@@ -1,0 +1,54 @@
+#Purchase div:not([class='Titles']){width:200px;display:none;vertical-align:top}
+#Purchase span{color:#444;background-size: 146px;margin:0 auto;transform:scale(0.8)}
+.khamsat span{background-position-y:-226px}
+.conteaas {
+text-align: center!important;    width: auto!important;
+display: block!important;}
+.section-title {
+text-align: center;
+margin: 15px 0 30px;
+}.conteaas div:not([class='Titles']) {width: 200px;vertical-align: top;}.conteaas span {
+color: #444;
+background-image:url(https://cdn.jsdelivr.net/gh/blogoftomorrow/images@main/buy-bot.png);
+height: 45px;
+width: 144px;
+display: block;
+background-size: 146px
+;
+margin: 0 auto;
+transform: scale(0.8);
+}
+.paypal span {
+background-position-y: -134px
+}.conteaas a{text-align: center;display:block;width:140px;margin:10px
+auto;padding:15px
+0;border-radius:50px;color:#fff;text-decoration:none}
+.drK .conteaas a{color: #fff}
+
+.paypal a{background:#20a8dd}.soria span {
+background-position-y: 1px
+}.soria a {
+background: #0eb482;
+}.kafiil span {
+background-position-y: -271px
+}.kafiil a {background: #1dbf73}
+.vodafone span {background-position-y: -41px}.vodafone a {background: #ee1c23}.fiverr span {background-position-y: -181px}.fiverr a {background: #404145}.wepay span {
+background-position-y: -88px}.wepay a {
+background: #752473;
+}.conteaas  div:not([class='Titles']) a:hover{width:160px;background-color:#6200ff;
+-webkit-transition: .3s ease-in-out;
+-o-transition: .3s ease-in-out;
+-moz-transition: .3s ease-in-out;
+transition: .3s ease-in-out;
+transition: .3s ease-in-out;
+transform: translate(-4px,-4px);
+box-shadow: 4px 4px #08102b;
+}
+.khamsat span{background-position-y:-226px}
+.khamsat a{
+background: #e69a01;
+}
+#Purchase a , .demo-buy a{display:block;width:140px;margin:10px auto;padding:15px 0;border-radius:50px;color:#fff;text-decoration:none}
+#Purchase div:not([class='Titles']) a:hover{width:160px;background-color:#c31432}
+#Purchase>h2:before{top:30px}
+.Purchase h7{display:block;margin:10px}
